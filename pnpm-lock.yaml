@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  nvm: ^0.0.4
+
+dependencies:
+  nvm: 0.0.4
+
+packages:
+
+  /nvm/0.0.4:
+    resolution: {integrity: sha1-OKF46dMbKDUIyS0VydqGHRqSELw=}
+    deprecated: This is NOT the correct nvm. Visit https://nvm.sh and use the curl command to install it.
+    hasBin: true
+    dev: false
